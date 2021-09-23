@@ -26,12 +26,12 @@ In this challenge we will migrate the database and the customer facing website t
 
 ## Slides for the sessions
 
-[Walkingdeck Bootcamp](./sources/Bootcamp-CAF-Migrate-en.pptx)
+[Walkingdeck Bootcamp](sources/WalkingDeck-CAF-Migrate.pptx))
 
 [CAF Intro](./sources/CAF-Governance.pptx)
 
 [CAF Strategy, Plan and Ready Discussion](./sources/CAF-Strategy-Plan-Ready-Workshop.pptx)
 
-[CAF Migrate Discussion](./sources/Bootcamp-CAF-Migrate.pptx)
+[CAF Migrate Discussion](./sources/CAF-Migrate.pptx)
 
 [CAF Governance Discussion](./sources/CAF-Governance.pptx)
