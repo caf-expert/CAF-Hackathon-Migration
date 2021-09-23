@@ -48,7 +48,7 @@ Present to your peer group your general migration plan, including how you will s
 
 Your architecture should be presented as one or more diagrams. As a component of your architecture, present to your peer group a naming standard for Azure resources that you will use as you progress through your migration. Be ready to answer the following questions:
 
-- What tools or technologies will be used to show server dependencies to Contoso Mortgage?
+- What tools or technologies will be used to show server dependencies to Contoso?
 - Before migrating any servers to Azure, a cost estimate must be performed. This estimation must be presented under Contoso Land Surveying current pricing offer and their negotiated price with Microsoft. How will you perform this calculation?
 - What tools or technologies will be used to allow servers to be domain-joined in Azure and logged on to with existing identities that will persist should hybrid connectivity not be available between Contoso Land Surveying on-premises datacenter and Azure?
 - How will Contoso Mortgage host its public DNS in Azure and manage DNS records for its migrated web applications?
