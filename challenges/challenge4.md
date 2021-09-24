@@ -25,4 +25,4 @@ Have in mind, there are a number of post-migration steps that should be complete
 - Ensuring proper subscription governance is in place, such as role-based access control and Azure Policy
 - Reviewing recommendations from Azure Advisor and Security Center
 
-If there is time left, please try to perfom some of these steps.
+If there is time left, please try to perform some of these steps.
