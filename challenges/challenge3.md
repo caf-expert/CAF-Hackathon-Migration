@@ -12,7 +12,7 @@ The Director of IT wants to validate that the migration strategy is sound, and t
 
 Azure Migrate will only create the VMs, their network interfaces, and their disks; all other resources must be staged in advance - so prepare an environment to migrate the servers to Azure. 
 
-The target virtual Network schould have a IP Range 192.168.0.0/24 and build up a segmentation of the Network to deploy the different tiers of the application in these subnets.
+The target virtual Network should have a IP Range 192.168.0.0/24 and build up a segmentation of the Network to deploy the different tiers of the application in these subnets.
 
 ## Customer Requirements
 
