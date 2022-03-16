@@ -28,7 +28,7 @@ These drivers have led to the following technical migration goals:
 
 ## Customer requirements
 
-Contoso Mortgage has the following requirements which you should take into consideration:
+Contoso has the following requirements which you should take into consideration:
 
 - Any assessment of the existing environment must provide a clear line of sight into server dependencies. While the Infrastructure and Application Support teams feel they understand their operating environment today, they would like verification before migrating to demonstrate to IT leadership.
 - Before a migration occurs, IT needs to know the estimated monthly cost to host their servers in Azure to perform chargebacks to business owners. Under Contoso Land Surveying current Enterprise Agreement, they have negotiated a discount with Microsoft and may have existing Windows Server licenses that can be reused. They would like to understand their cost under both models - one where they reuse their existing licensing and one where they procure new licenses from Microsoft for their Windows Servers hosted in Microsoft Azure.
