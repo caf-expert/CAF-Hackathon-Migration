@@ -14,7 +14,7 @@ Your challenge is to begin the initial planning for the migration of Contoso Lan
 - How will you involve your stakeholders throughout the project?
 - How will you create an inventory of your existing servers and determine dependencies?
 
-As you design your plan, remember that the IT leadership team at Contoso Mortgage has worked closely with business partners to define the business drivers for this migration effort, which include:
+As you design your plan, remember that the IT leadership team at Contoso has worked closely with business partners to define the business drivers for this migration effort, which include:
 
 - Limiting risk. While the applications selected for this migration effort are representative of Contoso Land Surveying on-premises estate, the are also production systems.
 - Extend in a stable way. Without access to the source code, the applications cannot be easily modified and are considered stable today. Stability during and after the migration is critical.
